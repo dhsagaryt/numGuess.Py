@@ -44,10 +44,10 @@ The game will prompt you to enter your name or to check high scores. You can cho
 Feel free to contribute to this project. You can open issues, submit pull requests, or provide feedback.
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE)
 
 
 ## Authors
 
-Developed by [Ocean-PI](https://www.github.com/octokatherine)
+Developed by [Ocean-PI](https://www.instagram.com/dhsagaryt/)
 
